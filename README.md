@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gabriel Paz!
+# 👋 Olá, eu sou o Gabriel Alexandre!
 
 Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia e desenvolvimento de software, e aqui você encontrará projetos que refletem meu aprendizado e minhas paixões.
 
